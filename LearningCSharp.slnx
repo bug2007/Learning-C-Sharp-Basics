@@ -1,4 +1,5 @@
 <Solution>
   <Project Path="Hello World/Hello World.csproj" />
+  <Project Path="Type Conversion/Type Conversion.csproj" Id="63346141-312e-4d81-a2f3-3136520c8bf6" />
   <Project Path="Variables and Constants/Variables and Constants.csproj" Id="6d1b4bbb-387b-415a-b30a-987cdb403a24" />
 </Solution>
