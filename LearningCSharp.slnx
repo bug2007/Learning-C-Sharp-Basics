@@ -1,4 +1,5 @@
 <Solution>
+  <Project Path="Arrays/Arrays.csproj" Id="12123bda-4fe7-48ee-adb9-07d01ad3e002" />
   <Project Path="Classes/Classes.csproj" Id="4b4396e2-1e88-4135-8986-a5251ac12dd6" />
   <Project Path="Hello World/Hello World.csproj" />
   <Project Path="Operators/Operators.csproj" Id="12d5ec06-4289-4581-b1d5-0f1c41326871" />
