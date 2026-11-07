@@ -1,4 +1,5 @@
 <Solution>
+  <Project Path="Classes/Classes.csproj" Id="4b4396e2-1e88-4135-8986-a5251ac12dd6" />
   <Project Path="Hello World/Hello World.csproj" />
   <Project Path="Operators/Operators.csproj" Id="12d5ec06-4289-4581-b1d5-0f1c41326871" />
   <Project Path="Type Conversion/Type Conversion.csproj" Id="63346141-312e-4d81-a2f3-3136520c8bf6" />
